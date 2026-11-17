@@ -4,6 +4,8 @@
 
 ### AI & Robotics Engineering Student
 
+**🌐 [Visit my AI & Robotics Portfolio](https://31nidal.github.io/)**
+
 **Intelligent Systems · Computer Vision · Reinforcement Learning · Autonomous Robotics**
 
 Engineering student at **UPSSITECH — Université de Toulouse**, specializing in intelligent robotic systems.
